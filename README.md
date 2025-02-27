@@ -6,7 +6,7 @@ To run this project, ensure you have **Python 3.8+** installed. Clone the reposi
 
 ```bash
 git clone https://github.com/yourusername/qtl_text_analysis_project.git
-cd qtl_text_analysis_project'
+cd qtl_text_analysis_project
 ```
 
 Run the Jupyter Notebook to preprocess the dataset:
