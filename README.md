@@ -15,4 +15,4 @@ jupyter notebook preprocessing.ipynb
 ```
 
 📊 Results
-The processed data, generated word clouds, and extracted trait terms are summarized in 579_report.pdf
+The processed data, generated word clouds, and extracted trait terms are summarized in 579_Project_1_Report.pdf
